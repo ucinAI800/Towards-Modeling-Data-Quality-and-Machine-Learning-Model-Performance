@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 20 16:15:36 2023
-
-@author: 15135
-"""
 import numpy as np
 import os
 import glob
